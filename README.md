@@ -3,7 +3,7 @@
 # Vanilla and Gated LSTM Variants for Drug-Review Sentiment Classification
 
 **Advanced Natural Language Processing: Lab Project on Recurrent Neural Networks**
-International University of Rabat (UIR), School of Data Science and Digital Engineering, Data Engineering Program (4th year), 2026-2027
+International University of Rabat (UIR), School of Data Science and Digital Engineering, Data Engineering Program (5th year), 2026-2027
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-from%20scratch-EE4C2C?logo=pytorch&logoColor=white)
 ![Task](https://img.shields.io/badge/task-3--class%20sentiment-1B2A4A)
