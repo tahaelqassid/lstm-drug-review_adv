@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.aux
+*.log
+*.out
+*.synctex.gz
+.DS_Store

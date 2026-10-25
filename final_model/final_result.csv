@@ -1,0 +1,2 @@
+cell,E,H,P,layers,dropout,lr,opt,bs,init,forget_bias,epochs,patience,wd,clip,class_weight,seed,params,best_val_f1,epochs_run,sec_per_epoch,test_acc,test_f1
+cifg,128,128,64,1,0.3,0.001,adam,64,default,True,12,4,0.0,1.0,False,0,2301699,0.6453560899758218,12,91.98671976725261,0.8190678123721311,0.6399440548731031
